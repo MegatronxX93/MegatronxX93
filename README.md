@@ -1,16 +1,17 @@
-## Hi there 👋
+# 💡 Data Analyst | Python | Power BI | KNIME  
 
-<!--
-**MegatronxX93/MegatronxX93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm **Malcom Abimbola**! 👋 A passionate **Data Analyst** who loves turning raw data into actionable insights.  
+With expertise in **Python, Power BI, and KNIME**, I specialize in **data visualization, automation, and pattern recognition**.  
 
-Here are some ideas to get you started:
+## 🔧 Skills & Tools  
+📊 **Data Analysis & Visualization**: Python (Pandas, NumPy, Matplotlib, Seaborn), Power BI, KNIME  
+📂 **Data Processing & Automation**: SQL, Excel, Jupyter Notebooks  
+⚡ **Soft Skills**: Strong analytical mindset, problem-solving, and effective communication  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🏆 About Me  
+🏈 **Team Player**: My experience as an **American football athlete & personal coach** has taught me teamwork, resilience, and strategic thinking—values I bring into every project.  
+📈 **Passionate Analyst**: I love uncovering insights, optimizing workflows, and making data-driven decisions.  
+
+## 🚀 Let's Connect!  
+💼 **Looking for opportunities** as a **Data Analyst**.  
+📫 Reach me on **[LinkedIn](www.linkedin.com/in/malcom-abimbola)**!  
