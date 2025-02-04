@@ -14,4 +14,4 @@ With expertise in **Python, Power BI, and KNIME**, I specialize in **data visual
 
 ## 🚀 Let's Connect!  
 💼 **Looking for opportunities** as a **Data Analyst**.  
-📫 Reach me on **[LinkedIn](www.linkedin.com/in/malcom-abimbola)**!  
+📫 Reach me on **[LinkedIn](https://www.linkedin.com/in/malcom-abimbola)**!  
