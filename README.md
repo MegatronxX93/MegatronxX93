@@ -1,17 +1,18 @@
-# 💡 Data Analyst | Python | Power BI | KNIME  
+# 💡 **Datenanalyst | Python | Power BI | KNIME**  
 
-Hi, I'm **Malcom Abimbola**! 👋 A passionate **Data Analyst** who loves turning raw data into actionable insights.  
-With expertise in **Python, Power BI, and KNIME**, I specialize in **data visualization, automation, and pattern recognition**.  
+Hallo, ich bin **Malcom Abimbola**! 👋 Ein leidenschaftlicher **Datenanalyst**, der es liebt, Rohdaten in wertvolle Erkenntnisse zu verwandeln.  
+Mit Expertise in **Python, Power BI und KNIME** spezialisiere ich mich auf **Datenvisualisierung, Automatisierung und Mustererkennung**.  
 
-## 🔧 Skills & Tools  
-📊 **Data Analysis & Visualization**: Python (Pandas, NumPy, Matplotlib, Seaborn), Power BI, KNIME  
-📂 **Data Processing & Automation**: SQL, Excel, Jupyter Notebooks  
-⚡ **Soft Skills**: Strong analytical mindset, problem-solving, and effective communication  
+## 🔧 **Skills & Tools**  
+📊 **Datenanalyse & Visualisierung**: Python (Pandas, NumPy, Matplotlib, Seaborn), Power BI, KNIME  
+📂 **Datenverarbeitung & Automatisierung**: SQL, Excel, Jupyter Notebooks  
+⚡ **Soft Skills**: Analytisches Denken, Problemlösungskompetenz und effektive Kommunikation  
 
-## 🏆 About Me  
-🏈 **Team Player**: My experience as an **American football athlete & personal coach** has taught me teamwork, resilience, and strategic thinking—values I bring into every project.  
-📈 **Passionate Analyst**: I love uncovering insights, optimizing workflows, and making data-driven decisions.  
+## 🏆 **Über mich**  
+🏈 **Teamplayer**: Meine Erfahrung als **American-Football-Athlet und Personal Coach** hat mir Teamwork, Belastbarkeit und strategisches Denken beigebracht – Werte, die ich in jedes Projekt einbringe.  
+📈 **Daten-Enthusiast**: Ich liebe es, Erkenntnisse zu gewinnen, Arbeitsabläufe zu optimieren und datenbasierte Entscheidungen zu treffen.  
 
-## 🚀 Let's Connect!  
-💼 **Looking for opportunities** as a **Data Analyst**.  
-📫 Reach me on **[LinkedIn](https://www.linkedin.com/in/malcom-abimbola)**!  
+## 🚀 **Lass uns vernetzen!**  
+💼 **Ich suche spannende Möglichkeiten** als **Datenanalyst**.  
+📫 Kontaktiere mich doch gerne auf **[LinkedIn](https://www.linkedin.com/in/malcom-abimbola)**!  
+ 
